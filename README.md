@@ -7,7 +7,6 @@ As a user, I can add new line items.
 As a user, I can edit or delete each line item.
 <br/>
 As a user, I can mark a task complete.
+<br/>
 
-
-
-(/images/newmvp.png)
+![wireframe](/images/newmvp.png)
